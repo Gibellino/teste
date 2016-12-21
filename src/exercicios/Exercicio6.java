@@ -29,9 +29,6 @@ public class Exercicio6 {
 			if(verif == false){
 				System.out.println("O numero " + i + " é primo");
 			}
-			else{
-				System.out.println("O numero " + i + " não é primo");
-			}
 		}
 	}
 
