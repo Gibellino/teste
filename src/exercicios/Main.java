@@ -13,7 +13,8 @@ public class Main {
 		//new Exercicio2();
 		//new Exercicio3();
 		//new Exercicio4();
-		new Exercicio5();
+		//new Exercicio5();
+		new Exercicio6();
 	}
 
 }
